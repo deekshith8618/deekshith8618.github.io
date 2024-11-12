@@ -1,4 +1,5 @@
-deekshith8618.github.io
+Horizontal-Swiper
+
 For Starting Screen
 
 npm install
